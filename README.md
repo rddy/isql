@@ -26,14 +26,14 @@ Please contact the author at `sgr [at] berkeley [dot] edu` if you have questions
 
 Citation
 --------
-If you find this software useful in your work, we kindly request that you cite the following [paper](https://arxiv.org/abs/):
+If you find this software useful in your work, we kindly request that you cite the following [paper](https://arxiv.org/abs/1805.08010):
 
 ```
 @InProceedings{Reddy/etal/18b,
   title={Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior},
   author={Reddy, Siddharth and Dragan, Anca D. and Levine, Sergey},
-  booktitle={Arxiv },
+  booktitle={Arxiv 1805.08010},
   year={2018},
-  url={https://arxiv.org/abs/}
+  url={https://arxiv.org/abs/1805.08010}
 }
 ```

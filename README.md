@@ -13,7 +13,7 @@ manager using
 pip install -r requirements.txt
 ```
 
-Install [gym](https://github.com/openai/gym) and replace `gym/envs/box2d/lunar_lander.py` with `isql/lunar_lander.py`.
+Install [gym](https://github.com/openai/gym) (version 0.9.2) and replace `gym/envs/box2d/lunar_lander.py` with `isql/lunar_lander.py`.
 
 Install [baselines](https://github.com/openai/baselines) and replace `baselines/baselines/deepq/{build_graph|simple}.py` with `isql/{build_graph|simple}.py`.
 

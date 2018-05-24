@@ -22,7 +22,7 @@ Extract [this zip file](https://drive.google.com/file/d/1z-SzHf5T2Ynpj-5dwVcB4TC
 Questions and comments
 ----------------------
 
-Please contact the author at `sgr [at] berkeley [dot] edu` if you have questions or find bugs.
+Please contact the author at `sgr [at] berkeley [dot] edu` if you have questions or find bugs. Be warned that not all cells are in order, so you might have to hunt around to deal with NameErrors.
 
 Citation
 --------
